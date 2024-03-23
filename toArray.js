@@ -1,5 +1,5 @@
 var count = 0
-var nums = []
+const nums = []
 process.argv.forEach(evenNums)
 
 function evenNums(item, index) {
